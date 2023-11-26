@@ -1,1 +1,1 @@
-# CodeClauseInternship_TextEditor
+# Text Editor using HTML, CSS adn JavaScript
